@@ -1,9 +1,0 @@
-﻿Codigo,Tipo,Categoria,Gravidade
-MV,Meningite Viral,Viral,Leve
-MB,Meningite Bacteriana,Bacteriana,Alta
-MP,Meningite Pneumocócica,Bacteriana,Alta
-MM,Meningite Meningocócica,Bacteriana,Muito Alta
-MTBC,Meningite Tuberculosa,Bacteriana,Alta
-MH,Meningite por Haemophilus,Bacteriana,Média
-MNE,Meningite Não Especificada,Não Especificada,Desconhecida
-MOE,Meningite por Outras Etiologias,Outras,Variável
