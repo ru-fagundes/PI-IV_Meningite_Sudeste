@@ -45,8 +45,6 @@ PI-IV_Meningite_Sudeste/
 - runtime.txt
 - README.md
 
-> Observação: referências e arquivos relacionados ao Power BI e à pasta docs foram removidos do README, conforme solicitado. Se desejar, posso remover a pasta docs do repositório em um commit separado.
-
 ---
 
 ## Tecnologias
