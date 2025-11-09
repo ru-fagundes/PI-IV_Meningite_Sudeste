@@ -1,0 +1,12 @@
+﻿Codigo,Faixa,Grupo,Grupo_Risco
+<1,Menor de 1 ano,Criança,Alto
+1-4,1 a 4 anos,Criança,Alto
+5-9,5 a 9 anos,Criança,Médio
+10-14,10 a 14 anos,Adolescente,Baixo
+15-19,15 a 19 anos,Adolescente,Baixo
+20-39,20 a 39 anos,Adulto,Médio
+40-59,40 a 59 anos,Adulto,Médio
+60-64,60 a 64 anos,Idoso,Alto
+65-69,65 a 69 anos,Idoso,Alto
+70-79,70 a 79 anos,Idoso,Alto
+80+,80 anos ou mais,Idoso,Muito Alto
